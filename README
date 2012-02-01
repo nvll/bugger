@@ -1,0 +1,6 @@
+This is a project Joshua Kwan and I worked on in 2005 before we became
+busy. The idea was to create a GUI tool to interact with the Debian BTS
+because at the time the interface available wasn't particularly easy for
+users to use for normal tasks. I can't recall why we decided to do this in
+Perl, but it uses GTK2 libs as well. Surprisingly, some of it still works
+despite changes to the BTS db format.
